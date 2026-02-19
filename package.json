@@ -1,7 +1,7 @@
 {
-  "name": "knightbot",
+  "name": "Hamza bot",
   "version": "1.0.0",
-  "description": "WhatsApp Bot",
+  "description": "Hamza Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
